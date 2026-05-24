@@ -1,0 +1,11 @@
+{
+  "name": "PipelineETL",
+  "properties": {
+    "activities": [
+      {
+        "name": "CopiarDatos",
+        "type": "Copy"
+      }
+    ]
+  }
+}
