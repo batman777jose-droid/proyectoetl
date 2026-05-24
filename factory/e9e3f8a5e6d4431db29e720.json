@@ -1,0 +1,15 @@
+{
+	"name": "e9e3f8a5e6d4431db29e720",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d99fc300-c13c-4479-88f6-19c7160b1c81",
+		"tenantId": "a9e17f9e-90be-41d0-84eb-6a48ebe9fec0"
+	}
+}
