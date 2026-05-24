@@ -1,0 +1,6 @@
+{
+  "name": "DatasetCSV",
+  "properties": {
+    "type": "DelimitedText"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "AzureDataLakeStorage1",
+  "properties": {
+    "type": "AzureBlobStorage"
+  }
+}

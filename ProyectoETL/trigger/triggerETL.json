@@ -1,0 +1,6 @@
+{
+  "name": "TriggerETL",
+  "properties": {
+    "type": "ScheduleTrigger"
+  }
+}
