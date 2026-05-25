@@ -10,11 +10,11 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "Online.csv",
-				"folderPath": "data/raw",
-				"container": "ventas"
+				"fileName": "Online Retail.csv",
+				"folderPath": "raw",
+				"container": "data"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": ";",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
