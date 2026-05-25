@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "e9e3f8a5e6d4431db29e720"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
