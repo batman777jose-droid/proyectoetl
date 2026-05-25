@@ -11,7 +11,7 @@
 			"location": {
 				"type": "AzureBlobStorageLocation",
 				"fileName": "resutado.csv",
-				"folderPath": "salida",
+				"folderPath": "data/processed",
 				"container": "ventas"
 			},
 			"columnDelimiter": ",",
