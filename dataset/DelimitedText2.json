@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "ventas.csv",
-				"folderPath": "data",
+				"fileName": "Online.csv",
+				"folderPath": "data/raw",
 				"container": "ventas"
 			},
 			"columnDelimiter": ",",
