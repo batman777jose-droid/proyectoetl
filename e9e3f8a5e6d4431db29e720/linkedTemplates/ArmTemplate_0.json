@@ -86,7 +86,7 @@
 					"location": {
 						"type": "AzureBlobStorageLocation",
 						"fileName": "resutado.csv",
-						"folderPath": "salida",
+						"folderPath": "data/processed",
 						"container": "ventas"
 					},
 					"columnDelimiter": ",",
@@ -114,11 +114,11 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"fileName": "ventas.csv",
-						"folderPath": "data",
-						"container": "ventas"
+						"fileName": "Online Retail.csv",
+						"folderPath": "raw",
+						"container": "data"
 					},
-					"columnDelimiter": ",",
+					"columnDelimiter": ";",
 					"escapeChar": "\\",
 					"firstRowAsHeader": true,
 					"quoteChar": "\""
