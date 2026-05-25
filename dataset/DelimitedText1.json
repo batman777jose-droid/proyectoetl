@@ -9,7 +9,10 @@
 		"type": "DelimitedText",
 		"typeProperties": {
 			"location": {
-				"type": "AzureBlobStorageLocation"
+				"type": "AzureBlobStorageLocation",
+				"fileName": "resutado.csv",
+				"folderPath": "salida",
+				"container": "ventas"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
