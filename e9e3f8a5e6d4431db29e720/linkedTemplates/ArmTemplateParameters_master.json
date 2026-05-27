@@ -14,8 +14,20 @@
 		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://essisiii0611151515.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "jos.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "jos"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "jos"
 		},
 		"containerUri": {
 			"value": ""
