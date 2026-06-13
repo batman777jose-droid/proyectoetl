@@ -17,6 +17,9 @@
 		"AzureSqlDatabase1_password": {
 			"value": ""
 		},
+		"FileServer1_password": {
+			"value": ""
+		},
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://essisiii0611151515.dfs.core.windows.net/"
 		},
@@ -28,6 +31,12 @@
 		},
 		"AzureSqlDatabase1_properties_typeProperties_userName": {
 			"value": "jos"
+		},
+		"FileServer1_properties_typeProperties_host": {
+			"value": "192.168.56.1"
+		},
+		"FileServer1_properties_typeProperties_userId": {
+			"value": "laptop-biloj44d\\martinez"
 		}
 	}
 }
