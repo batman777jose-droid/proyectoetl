@@ -7,7 +7,7 @@
 		"typeProperties": {
 			"host": "LAPTOP-BILOJ44D",
 			"userId": "laptop-biloj44d\\martinez",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyZjgwMTJmMC1iOTZhLTRjMTUtYmNkYi1mODA0ODA5OGVjMzgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1NWRhNzNiNS02NGQ2LTQ2YjgtYjNiNC1kM2U0NDE0MDU1N2IiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "inge",
