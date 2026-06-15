@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "\\\\LAPTOP-BILOJ44D\\ADF2",
-			"userId": " MARTINEZ",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyYzVmODY3Ny0yMDhiLTQxZjgtOWIxNi0yYWYyMmZiY2FjNWUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"host": "LAPTOP-BILOJ44D",
+			"userId": " LAPTOP-BILOJ44D\\MARTINEZ",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIxYzI0MzU5Zi04NTBhLTQzNzItODhjZS02Y2EyNzk0OTdkODYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "inge",
