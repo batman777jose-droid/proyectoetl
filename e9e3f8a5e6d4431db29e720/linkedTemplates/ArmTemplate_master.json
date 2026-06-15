@@ -45,7 +45,7 @@
 		},
 		"FileServer1_properties_typeProperties_host": {
 			"type": "string",
-			"defaultValue": "192.168.56.1"
+			"defaultValue": "C:/ADF"
 		},
 		"FileServer1_properties_typeProperties_userId": {
 			"type": "string",

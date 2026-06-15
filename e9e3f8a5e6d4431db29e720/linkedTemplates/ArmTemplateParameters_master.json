@@ -33,7 +33,7 @@
 			"value": "jos"
 		},
 		"FileServer1_properties_typeProperties_host": {
-			"value": "192.168.56.1"
+			"value": "C:/ADF"
 		},
 		"FileServer1_properties_typeProperties_userId": {
 			"value": "laptop-biloj44d\\martinez"
