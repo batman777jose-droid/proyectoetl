@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "\\\\Laptop-biloj44d\\adf2",
-			"userId": "laptop-biloj44d\\martinez",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4NmMwMDdkNC1kODZlLTQ2MTgtOWE2ZS1lOGY1YjQ5MTg0M2YiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "LAPTOP-BILOJ44D\\MARTINEZ",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzZDRhYjFmNS1iZTU0LTRiZDMtYWM3Ny1hMzI4MGE5NjE1OTYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "inge",
